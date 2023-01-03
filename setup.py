@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 from typing import List
 import csv
 
-REQUIREMENTS_FILE = "requirements.txt"
+REQUIREMENTS_FILE = "/config/workspace/requirements.txt"
 HYPHEN_E_DOT = "-e ."
 
 def get_requirements()-> List[str]:
@@ -21,6 +21,6 @@ setup(
       version="0.0.1",
       author="Vinod Kumar Jodu",
       author_email="vinodkumarjodu@gmail.com",
-      find_packages=find_packages(),
+      find_packages=find_packages(include=['source', 'notebooks']),
       install_requires=get_requirements()
 )

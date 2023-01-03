@@ -1,3 +1,5 @@
-setuptools=65.5.0
-pandas=1.16.0
+ipykernel==6.19.4
+setuptools==65.5.0
+pandas==1.16.0
+matplotlib
 -e .
