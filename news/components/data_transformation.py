@@ -12,7 +12,7 @@ class DataTransformation:
     def __init__(self, data_transformation_config: DataTransformationConfig):
         try:
             self.data_transformation_config = data_transformation_config
-             
+            
         except Exception as e:
             raise NewsException(e, sys)
 
