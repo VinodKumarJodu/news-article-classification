@@ -15,6 +15,7 @@ from nltk.stem import WordNetLemmatizer
 from gensim.models import word2vec
 from sklearn.feature_extraction.text import CountVectorizer, TfidfVectorizer
 
+from sklearn.preprocessing import LabeEncoder
 from sklearn.model_selection import train_test_split
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.ensemble import RandomForestClassifier
@@ -51,6 +52,26 @@ def preprocess(text):
 
     return text
 
+def split_data(df):
+    df.columns = [column.lower() for column in df.columns]
+    X = df['text']
+    y = df['category']
+    X_train, X_test, y_train, y_test = train_test_split(X,y, test_size=0.2, random_state=19, stratify=True)
+    return X_train, X_test, y_train, y_test
 
-def model_training(train, model):
-    X_train, X_test, y_train, y_test = train_test_split(train)
+def label_encode_y(y):
+    le = LabeEncoder()
+    return le.fit_transform(y)
+
+def vectorize(df, column):
+    vectorizer = TfidfVectorizer(stop_words='english')
+    df = vectorizer.fit_transform(df[colunm])
+    return df    
+
+def model_training(X_train,y_train, X_test, y_test):
+    model = MultinomialNB()
+    model.fit(X_train, y_train)
+    y_pred = model.predict(X_test)
+    return log_loss(y_test.values, y_pred)
+
+if __name__ = "__main__":
