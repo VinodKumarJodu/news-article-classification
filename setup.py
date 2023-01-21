@@ -2,7 +2,7 @@ from setuptools import find_packages, setup
 from typing import List
 import csv
 
-REQUIREMENTS_FILE = "/config/workspace/requirements.txt"
+REQUIREMENTS_FILE = "/home/v/news-article-classification/requirements.txt"
 HYPHEN_E_DOT = "-e ."
 
 def get_requirements()-> List[str]:

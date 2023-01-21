@@ -2,6 +2,7 @@ ipykernel
 setuptools
 pandas
 numpy
+seaborn
 matplotlib
 nltk
 gensim
@@ -10,3 +11,10 @@ textblob
 sklearn
 joblib
 xgboost
+spacy
+textstat
+pyLDAvis
+flask
+werkzeug
+Jinja2
+typing
