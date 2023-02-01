@@ -1,0 +1,939 @@
+,word,count,word_len,new_word
+1,sheffieldborn,1,13,sheffield born
+6,votecatching,1,12,vote catching
+8,intermediate,2,12,intermediate
+11,unenforceable,2,13,unenforceable
+20,keywordbased,1,12,keyword based
+22,performances,1,12,performances
+42,selfdeclared,1,12,self declared
+54,continuation,2,12,continuation
+55,innovationled,1,13,innovation led
+142,downshifting,1,12,down shifting
+173,dependability,1,13,dependability
+205,programmable,2,12,programmable
+213,contemplates,1,12,contemplates
+220,hairdressing,1,12,hairdressing
+279,unimaginable,2,12,unimaginable
+282,quicklytaken,1,12,quickly taken
+286,experimentation,2,15,experimentation
+288,serialisation,1,13,serial is ation
+289,microsystems,2,12,microsystems
+320,billingsgate,1,12,billings gate
+337,chauvinistic,1,12,chauvinistic
+355,bloomingdale,2,12,blooming dale
+370,rollercoaster,2,13,rollercoaster
+372,sonyericsson,2,12,sony ericsson
+396,predominately,2,13,predominately
+406,antiamerican,2,12,anti american
+423,investigated,2,12,investigated
+484,declarations,1,12,declarations
+514,recordholders,1,13,record holders
+563,behindthescenes,2,15,behind the scenes
+593,deceleration,1,12,deceleration
+595,ballymenaborn,1,13,ballymena born
+689,breastbaring,1,12,breast baring
+707,biggestselling,2,14,biggest selling
+714,redistribution,2,14,redistribution
+726,accomplishment,2,14,accomplishment
+729,organisations,1,13,organisations
+742,missionairies,1,13,mission air ies
+805,interception,1,12,interception
+829,shadowcrewcom,1,13,shadow crew com
+836,carderplanet,2,12,car der planet
+841,colombianborn,1,13,colombian born
+843,southeastern,1,12,southeastern
+861,impersonator,1,12,impersonator
+867,secondplaced,2,12,second placed
+883,tunisianborn,1,12,tunisian born
+913,dissatisfied,1,12,dissatisfied
+922,protectionism,1,13,protectionism
+929,backtracking,1,12,backtracking
+930,tranquillity,2,12,tranquillity
+941,chiropractor,1,12,chiropractor
+951,cryptography,1,12,cryptography
+958,euroatlantic,1,12,euro atlantic
+961,transgression,1,13,transgression
+973,underperform,1,12,under perform
+1007,collaborator,2,12,collaborator
+1010,bloodandsinew,1,13,blood and sinew
+1047,conferencesm,1,12,conferences m
+1067,ritesofpassage,2,14,rites of passage
+1093,reintegration,1,13,reintegration
+1097,stagemanaged,2,12,stage managed
+1138,qualitatively,1,13,qualitatively
+1151,intelligently,1,13,intelligently
+1182,usregistered,1,12,us registered
+1217,welshenglish,1,12,welsh english
+1238,hanningfield,1,12,h anning field
+1249,demonstrator,1,12,demonstrator
+1280,citizenbased,1,12,citizen based
+1303,singaporelisted,2,15,singapore listed
+1352,actordirector,1,13,actor director
+1361,semifictional,1,13,semi fictional
+1383,environmentally,2,15,environmentally
+1387,correctional,2,12,correctional
+1425,selfdelusion,1,12,self delusion
+1428,publiccompany,1,13,public company
+1439,knowledgeable,1,13,knowledgeable
+1486,doubleheader,1,12,doubleheader
+1494,buckinghamshire,2,15,buckinghamshire
+1498,precondition,2,12,precondition
+1505,extortionist,1,12,extortionist
+1507,civilisation,1,12,civilisation
+1528,bedellsivright,2,14,be dells iv right
+1626,schwarzenegger,2,14,schwarzenegger
+1646,chennaibased,1,12,chennai based
+1653,outofcompetition,2,16,out of competition
+1667,gamesondemand,1,13,games on demand
+1680,differential,2,12,differential
+1695,institutional,2,13,institutional
+1708,electroclash,2,12,electro clash
+1810,speechwriting,2,13,speech writing
+1877,selfobsessed,1,12,self obsessed
+1884,racketeering,1,12,racketeering
+1888,selfdiagnosis,2,13,self diagnosis
+1930,preferential,1,12,preferential
+1932,decisionmaker,1,13,decision maker
+1933,astronomical,1,12,astronomical
+1969,passtheparcel,2,13,pass the parcel
+2002,revolutionised,2,14,revolutionised
+2075,kimberlyclark,1,13,kimberly clark
+2118,radioenabled,1,12,radio enabled
+2127,confrontational,2,15,confrontational
+2177,indispensable,1,13,indispensable
+2199,propertybased,1,13,property based
+2217,multitalented,2,13,multi talented
+2226,nonperforming,1,13,non performing
+2237,unforeseeable,1,13,unforeseeable
+2268,understaffed,1,12,understaffed
+2279,capitulation,1,12,capitulation
+2331,governmentcommissioned,2,22,government commissioned
+2349,embarrassment,2,13,embarrassment
+2399,enlargedember,1,13,enlarged ember
+2406,reproduction,1,12,reproduction
+2423,admissibility,1,13,admissibility
+2453,reengineered,1,12,re engineered
+2552,threeandahalf,1,13,three and a half
+2580,josephdesire,1,12,joseph desire
+2587,irritatingly,1,12,irritatingly
+2625,russianowned,1,12,russian owned
+2645,enthusiastically,2,16,enthusiastically
+2678,longrumoured,1,12,long rumoured
+2693,swashbuckling,1,13,swashbuckling
+2696,maximisation,1,12,maxim is ation
+2699,heavilytipped,2,13,heavily tipped
+2733,personalised,1,12,personalised
+2740,redistribute,1,12,redistribute
+2766,predetermine,2,12,predetermine
+2797,planningshare,1,13,planning share
+2812,righteousness,2,13,righteousness
+2846,bandsartists,1,12,bands artists
+2847,bromesberrow,1,12,brom es ber row
+2853,recapitalised,1,13,re capitalised
+2859,incompatibility,2,15,incompatibility
+2862,dispossessed,1,12,dispossessed
+2886,impersonated,1,12,impersonated
+2891,interrogated,1,12,interrogated
+2924,industrialist,2,13,industrialist
+2936,sindelfingen,1,12,s in delf in gen
+2939,vindictively,1,12,vindictively
+2974,apprehension,2,12,apprehension
+2975,postchristmas,2,13,post christmas
+3010,autobiographical,2,16,autobiographical
+3015,noncompetitive,2,14,noncompetitive
+3130,mendaciously,1,12,mendacious ly
+3205,recordholder,1,12,record holder
+3218,irresponsibility,2,16,irresponsibility
+3254,frustratingly,1,13,frustratingly
+3258,instantaneous,1,13,instantaneous
+3345,certification,1,13,certification
+3366,practicality,1,12,practicality
+3367,indiapakistan,1,13,india pakistan
+3383,associations,1,12,associations
+3401,propostition,1,12,pro post it ion
+3415,decentralise,1,12,de central is e
+3437,hrisanthakis,1,12,hr is ant hak is
+3471,littlefeather,1,13,little feather
+3501,astonishment,1,12,astonishment
+3504,sittingbourne,1,13,sitting bourne
+3542,oceanography,1,12,oceanography
+3544,highlyradioactive,2,17,highly radioactive
+3646,papadoyiannakis,2,15,papa do yi an nak is
+3648,preparedness,1,12,preparedness
+3686,operationally,1,13,operationally
+3699,singersongwriter,2,16,singer songwriter
+3761,seasonleading,1,13,season leading
+3830,regurgitation,1,13,regurgitation
+3848,indiscipline,1,12,in discipline
+3866,montrealbased,1,13,montreal based
+3876,governmental,2,12,governmental
+3924,supercomputing,2,14,super computing
+3930,antimusharraf,1,13,anti musharraf
+3950,newlyappointed,2,14,newly appointed
+3984,lightcoloured,1,13,light coloured
+3988,bureaucratism,1,13,bureaucrat is m
+4017,progovernment,1,13,pro government
+4026,confectionery,2,13,confectionery
+4030,braincontrol,1,12,brain control
+4041,dispensation,1,12,dispensation
+4078,worstaffected,2,13,worst affected
+4106,philharmonic,1,12,philharmonic
+4107,crossexamined,2,13,cross examined
+4117,reproductive,1,12,reproductive
+4134,foreknowledge,1,13,foreknowledge
+4200,departmental,1,12,departmental
+4229,oppositional,1,12,oppositional
+4253,underpinning,1,12,underpinning
+4273,strengthened,1,12,strengthened
+4294,categorically,1,13,categorically
+4296,reinitiation,1,12,re initiation
+4305,valuecreating,1,13,value creating
+4309,illumination,1,12,illumination
+4325,wellconceived,1,13,well conceived
+4326,claycourters,1,12,clay court ers
+4341,djembadjemba,1,12,djemba djemba
+4426,vicedirector,1,12,vice director
+4455,pronouncement,2,13,pronouncement
+4490,chinawatcher,1,12,china watcher
+4491,introspective,1,13,introspective
+4554,wellinsulated,1,13,well insulated
+4596,uncooperative,2,13,uncooperative
+4616,intermission,1,12,intermission
+4631,radioactivity,1,13,radioactivity
+4654,moneychangers,1,13,money changers
+4658,entertaining,2,12,entertaining
+4662,floridabased,2,12,florida based
+4668,chancellorno,1,12,chancellor no
+4689,significantlyimproved,2,21,significantly improved
+4723,macroeconomic,2,13,macroeconomic
+4784,grammywinning,1,13,grammy winning
+4796,whiteshirted,1,12,white shirted
+4818,demonstrated,1,12,demonstrated
+4840,mediumtolong,1,12,medium to long
+4845,complimentary,1,13,complimentary
+4859,reimbursement,1,13,reimbursement
+4894,christianity,1,12,christianity
+4940,counterattack,2,13,counterattack
+4975,minihydraulic,1,13,mini hydraulic
+5033,multifunction,1,13,multifunction
+5098,consequently,1,12,consequently
+5108,recordbusting,1,13,record busting
+5195,selfdestruct,1,12,self destruct
+5203,selfexpression,2,14,self expression
+5217,energysapping,1,13,energy sapping
+5221,characterize,1,12,characterize
+5244,mismanagement,1,13,mismanagement
+5294,ideologically,1,13,ideologically
+5323,authentication,2,14,authentication
+5331,underpressure,1,13,under pressure
+5388,mycokemusiccom,2,14,my coke music com
+5423,unaccountably,1,13,unaccountably
+5446,rainaffected,1,12,rain affected
+5450,intentionally,2,13,intentionally
+5470,babyshamblers,1,13,baby shamble rs
+5488,depreciation,2,12,depreciation
+5499,proeuropeans,1,12,pro europeans
+5612,careerthreatening,2,17,career threatening
+5625,ubiquitously,2,12,ubiquitously
+5659,fouryearolds,1,12,four year olds
+5674,dictatorship,1,12,dictatorship
+5706,biotechnology,1,13,biotechnology
+5735,persistently,1,12,persistently
+5767,liverpudlian,1,12,liver pu d lian
+5793,islamaphobia,1,12,islam a phobia
+5800,downconverting,2,14,down converting
+5803,denialofservice,2,15,denial of service
+5834,looseforward,1,12,loose forward
+5887,accompaniment,1,13,accompaniment
+5896,expropriation,1,13,expropriation
+5902,rechargeable,1,12,rechargeable
+5919,salsamerengue,1,13,salsa merengue
+6013,widereaching,1,12,wide reaching
+6021,amplification,1,13,amplification
+6023,nationalisation,2,15,nationalisation
+6028,antiphishing,1,12,anti phishing
+6056,conveniently,1,12,conveniently
+6064,multispeaker,1,12,multi speaker
+6180,conspicuously,1,13,conspicuously
+6193,johannesburg,1,12,johannesburg
+6231,foreignbased,1,12,foreign based
+6244,assassinated,1,12,assassinated
+6248,modernisation,2,13,modernisation
+6251,doublefaulted,1,13,double faulted
+6348,jamesinspired,1,13,james inspired
+6414,scalprecorded,1,13,scalp recorded
+6417,searchengine,1,12,search engine
+6426,schoolteacher,1,13,schoolteacher
+6435,invincibility,1,13,invincibility
+6458,secondfastest,1,13,second fastest
+6473,lowerranking,1,12,lower ranking
+6543,superathletic,1,13,super athletic
+6570,inconclusive,1,12,inconclusive
+6587,diarywriting,2,12,diary writing
+6597,ukcontrolled,1,12,uk controlled
+6639,sarcastically,2,13,sarcastically
+6641,singlebedroom,1,13,single bedroom
+6692,embarrassing,1,12,embarrassing
+6698,characterise,2,12,characterise
+6713,troubleshoot,1,12,troubleshoot
+6728,killamangiro,1,12,kill a man giro
+6740,visakhapatnam,1,13,visa khapa tnam
+6777,ramification,2,12,ramification
+6780,storytelling,1,12,storytelling
+6799,baskinrobbins,1,13,baskin robbins
+6850,welleducated,1,12,well educated
+6868,contraceptive,1,13,contraceptive
+6876,fourthbiggest,2,13,fourth biggest
+6903,prizefighter,2,12,prizefighter
+6910,acceleration,1,12,acceleration
+6965,paidforpassalong,2,16,paid for pass along
+6968,dangerousthe,1,12,dangerous the
+7004,quantitative,1,12,quantitative
+7037,pornographer,1,12,pornographer
+7053,higherpriced,1,12,higher priced
+7068,substitution,1,12,substitution
+7077,novemberearly,1,13,november early
+7099,speculatively,1,13,speculative ly
+7114,whittingdale,1,12,w hitting dale
+7134,nottinghamshire,2,15,nottinghamshire
+7185,neighbouring,1,12,neighbouring
+7205,homosexuality,2,13,homosexuality
+7250,michelangelo,1,12,michelangelo
+7257,perpetuating,1,12,perpetuating
+7277,verbalicious,1,12,verb a licious
+7290,argumentative,1,13,argumentative
+7308,emphatically,1,12,emphatically
+7334,irreversible,1,12,irreversible
+7337,capabilities,1,12,capabilities
+7341,developmental,1,13,developmental
+7379,thyssenkrupp,2,12,thyssenkrupp
+7406,hollinghurst,2,12,holl ing hurst
+7420,indiscretion,1,12,indiscretion
+7449,quadriplegic,1,12,quadriplegic
+7454,mockauthentic,1,13,mock authentic
+7475,rebandingwill,1,13,re banding will
+7491,staffordsmith,1,13,stafford smith
+7511,degenerative,1,12,degenerative
+7518,continuously,2,12,continuously
+7584,fastspreading,1,13,fast spreading
+7602,inconsistency,1,13,inconsistency
+7612,hindilanguage,1,13,hindi language
+7665,baghdadbased,1,12,baghdad based
+7684,rediscovered,1,12,rediscovered
+7695,beneficiaries,1,13,beneficiaries
+7761,nanotechnology,2,14,nanotechnology
+7774,antiislamism,1,12,anti islamism
+7790,legallydownloaded,2,17,legally downloaded
+7793,uruguayanborn,1,13,uruguayan born
+7797,convincingly,1,12,convincingly
+7809,redevelopment,1,13,redevelopment
+7811,usefulpopular,1,13,useful popular
+7815,individuality,1,13,individuality
+7824,conceptually,1,12,conceptually
+7826,internetbased,2,13,internet based
+7835,rubberstamps,1,12,rubber stamps
+7879,noncelebrity,1,12,non celebrity
+7906,shakespearean,1,13,shakespearean
+7910,reunification,1,13,reunification
+7930,redundancies,1,12,redundancies
+7985,instantaccess,1,13,instant access
+8025,lincolnshire,1,12,lincolnshire
+8027,thoughtfully,1,12,thoughtfully
+8052,unnecessarily,2,13,unnecessarily
+8059,longarranged,1,12,long arranged
+8064,geographical,2,12,geographical
+8185,reconditioned,1,13,reconditioned
+8207,albanianborn,1,12,albanian born
+8222,unfavourably,1,12,un favourably
+8226,demotivating,1,12,de motivating
+8278,meanstesting,2,12,means testing
+8293,breathtaking,1,12,breathtaking
+8340,jacksonville,2,12,jacksonville
+8370,unconvincing,1,12,unconvincing
+8371,computational,1,13,computational
+8408,fainthearted,1,12,fainthearted
+8429,unremarkable,1,12,unremarkable
+8465,lowerskilled,1,12,lower skilled
+8492,weidensteiner,1,13,weiden steiner
+8503,underexposure,2,13,under exposure
+8537,collisiondetection,2,18,collision detection
+8607,charttoppers,2,12,chart toppers
+8612,satisfactory,2,12,satisfactory
+8624,berthinussen,1,12,berth in us sen
+8627,acknowledges,1,12,acknowledges
+8646,confiscatory,1,12,conf isca tory
+8652,nonrepayable,1,12,non repayable
+8655,wonderstrike,1,12,wonder strike
+8665,nonspecialist,1,13,non specialist
+8691,bookingearold,1,13,book in gear old
+8692,unilaterally,1,12,unilaterally
+8702,minuteeconds,1,12,minute eco nds
+8726,columbiasony,1,12,columbia sony
+8745,crossselling,1,12,cross selling
+8754,reevaluation,1,12,reevaluation
+8768,centreforward,1,13,centre forward
+8771,blomefontein,1,12,blom e font e in
+8785,nonsolicited,1,12,non solicited
+8802,investigative,1,13,investigative
+8861,fourthminute,1,12,fourth minute
+8867,visualisation,1,13,visualisation
+8869,gangsterstyle,1,13,gangster style
+8900,contributing,1,12,contributing
+8904,threecornered,1,13,three cornered
+8930,firstquarter,1,12,first quarter
+8944,petrochemical,1,13,petrochemical
+8951,nanoparticles,1,13,nanoparticles
+8957,victimisation,1,13,victim is ation
+8972,enlargedtate,2,12,enlarged tate
+8985,counterterrorism,2,16,counter terrorism
+9047,crimefighting,1,13,crime fighting
+9093,musicologist,1,12,musicologist
+9107,incapacitate,1,12,incapacitate
+9186,lookingglass,1,12,looking glass
+9354,codecracking,2,12,code cracking
+9367,thanksgiving,2,12,thanksgiving
+9368,dramatisation,1,13,drama tis ation
+9393,plasterboard,1,12,plasterboard
+9397,timehonoured,2,12,time honoured
+9413,geoscientists,1,13,geo scientists
+9436,prodemocracy,1,12,pro democracy
+9484,antagonistic,1,12,antagonistic
+9526,eccentricity,1,12,eccentricity
+9543,nonessential,1,12,nonessential
+9551,undetectable,2,12,undetectable
+9597,verification,1,12,verification
+9618,implantation,1,12,implantation
+9681,fuelefficient,1,13,fuel efficient
+9695,londonfrankfurt,2,15,london frankfurt
+9710,effortlessly,1,12,effortlessly
+9714,contradiction,1,13,contradiction
+9775,undergraduate,1,13,undergraduate
+9800,decisiveness,1,12,decisiveness
+9807,normalengined,1,13,normal engined
+9830,demonstrates,1,12,demonstrates
+9833,casinorelated,1,13,casino related
+9839,counterclaim,1,12,counterclaim
+9840,wolstenholme,1,12,wolstenholme
+9855,inefficiency,1,12,inefficiency
+9882,statisticians,1,13,statisticians
+9891,centrehalves,1,12,centre halves
+9928,incompetence,1,12,incompetence
+9978,decapitation,1,12,decapitation
+9986,antiglobalisation,2,17,anti globalisation
+10019,selffinanced,1,12,self financed
+10020,printordering,1,13,print ordering
+10050,opportunistic,2,13,opportunistic
+10051,dumfriesshire,1,13,dumfriesshire
+10060,teleservices,1,12,tele services
+10077,homeshopping,1,12,home shopping
+10080,britishbacked,1,13,british backed
+10102,gloucestershire,2,15,gloucestershire
+10187,preventative,2,12,preventative
+10192,napsterization,2,14,napster iz ation
+10196,antiaircraft,1,12,antiaircraft
+10248,gadgetlovers,1,12,gadget lovers
+10385,unwillingness,2,13,unwillingness
+10421,nonforprofit,1,12,non for profit
+10451,nonsmartphone,1,13,non smartphone
+10465,britishbased,1,12,british based
+10497,publicsector,1,12,public sector
+10502,unreformable,2,12,un reform able
+10515,threemonthly,1,12,three monthly
+10547,unexpectedly,2,12,unexpectedly
+10599,smoothtalking,1,13,smooth talking
+10612,underdevelop,1,12,under develop
+10627,decentralised,1,13,de centralised
+10641,irreplaceable,1,13,irreplaceable
+10656,welshspeaking,1,13,welsh speaking
+10664,efficiencies,1,12,efficiencies
+10676,behindclosed,1,12,behind closed
+10708,largerthanexpected,2,18,larger than expected
+10713,underproduced,1,13,under produced
+10722,unassailable,2,12,unassailable
+10724,consultative,1,12,consultative
+10735,payperaction,2,12,pay per action
+10754,insufficient,1,12,insufficient
+10759,journalistic,2,12,journalistic
+10766,overambitious,1,13,overambitious
+10792,conclusively,1,12,conclusively
+10834,miscarriages,1,12,miscarriages
+10840,codebreaking,1,12,codebreaking
+10855,mortgagestyle,1,13,mortgage style
+10866,latenovember,1,12,late november
+10891,ultrawideband,1,13,ultra wide band
+10897,fuerteventura,1,13,fuerteventura
+10926,internacional,1,13,internacional
+10940,chevrontexaco,2,13,chevron texaco
+10973,euroscepticism,2,14,euroscepticism
+10994,expletiveladen,2,14,expletive laden
+11011,ratification,2,12,ratification
+11015,swaminarayan,1,12,swami narayan
+11063,coincidentally,2,14,coincidentally
+11064,hereditaries,2,12,her edit aries
+11075,wellpublicised,2,14,well publicised
+11087,newsgamingcom,1,13,news gaming com
+11092,modification,1,12,modification
+11095,jointventure,1,12,joint venture
+11098,glasgowbased,1,12,glasgow based
+11100,reintroduced,1,12,reintroduced
+11123,congressionallymandated,2,23,congressionally mandated
+11168,greensleeves,2,12,greensleeves
+11169,markovadolin,1,12,markova dol in
+11187,colonisation,1,12,colonisation
+11212,undemocratic,2,12,undemocratic
+11284,soontoretire,1,12,soon to retire
+11301,selfcontained,2,13,self contained
+11361,lostprophets,1,12,lostprophets
+11393,uninterrupted,1,13,uninterrupted
+11398,impoverished,1,12,impoverished
+11405,agrochemical,1,12,a gro chemical
+11445,allconsuming,1,12,all consuming
+11512,timespecific,1,12,time specific
+11515,aesthetically,1,13,aesthetically
+11527,minimanifesto,1,13,mini manifesto
+11551,nottoodistant,1,13,not too distant
+11616,democratgreen,1,13,democrat green
+11626,sarbanesoxley,2,13,sar banes oxley
+11638,retrospective,2,13,retrospective
+11640,reinstatement,2,13,reinstatement
+11645,conciliatory,1,12,conciliatory
+11682,messageboard,1,12,message board
+11714,parliamentarian,2,15,parliamentarian
+11715,disturbingly,1,12,disturbingly
+11726,nonemergency,1,12,non emergency
+11735,antisectarian,1,13,anti sectarian
+11741,phonetapping,1,12,phone tapping
+11753,proportional,1,12,proportional
+11757,sixthhighest,1,12,sixth highest
+11778,beerflavoured,2,13,beer flavoured
+11813,approximation,1,13,approximation
+11833,fileswapping,2,12,file swapping
+11841,newportbased,2,12,newport based
+11845,nextgeneration,2,14,next generation
+11848,selfcritical,1,12,self critical
+11850,insensitivity,1,13,insensitivity
+11854,holidaymaker,1,12,holiday maker
+11901,ticketholder,1,12,ticket holder
+11909,powersharing,1,12,power sharing
+11918,welldocumented,2,14,well documented
+12068,nearidentical,1,13,near identical
+12087,preelectronic,2,13,pre electronic
+12091,harmonisation,1,13,harmon is ation
+12092,staffordshire,1,13,staffordshire
+12109,evidencebased,1,13,evidence based
+12123,lifeextending,1,13,life extending
+12125,christchurch,1,12,christchurch
+12153,highlighting,1,12,highlighting
+12184,higherquality,1,13,higher quality
+12188,consciousness,2,13,consciousness
+12191,dysfunctional,2,13,dysfunctional
+12223,areconsulting,1,13,are consulting
+12264,misrepresent,1,12,misrepresent
+12296,unbelievable,1,12,unbelievable
+12336,collectively,1,12,collectively
+12403,announcements,1,13,announcements
+12473,millionpound,1,12,million pound
+12478,lackadaisical,1,13,lackadaisical
+12503,legitimately,2,12,legitimately
+12516,partinorganic,1,13,part inorganic
+12534,terabytesize,1,12,terabyte size
+12683,periodically,1,12,periodically
+12851,misdirection,1,12,misdirection
+12852,interconnect,2,12,interconnect
+12857,principality,1,12,principality
+12913,quickgrowing,1,12,quick growing
+12915,fonetography,2,12,f one to graph y
+12920,surroundsound,1,13,surround sound
+13009,overconfident,1,13,overconfident
+13015,overreliance,1,12,over reliance
+13090,surreptitiously,2,15,surreptitiously
+13095,gueststarred,1,12,guest starred
+13098,disaffection,1,12,disaffection
+13116,fictionalise,1,12,fictional is e
+13117,roguedialling,2,13,rogue dialling
+13154,transparently,1,13,transparently
+13162,licenceexempt,1,13,licence exempt
+13176,reconstructed,2,13,reconstructed
+13218,handanimated,1,12,hand animated
+13268,stratocaster,2,12,stratocaster
+13278,welfaretowork,1,13,welfare to work
+13311,multitakings,2,12,multi takings
+13312,pararallying,2,12,para rallying
+13318,adaptibility,1,12,adapt i bil it y
+13323,crosslicense,1,12,cross license
+13333,environments,1,12,environments
+13340,buttnumbathon,1,13,butt numbat hon
+13362,motherboards,2,12,motherboards
+13384,sportsleisure,1,13,sports leisure
+13470,deliberation,1,12,deliberation
+13471,suspiciously,2,12,suspiciously
+13484,comprehensively,2,15,comprehensively
+13503,fundamentals,1,12,fundamentals
+13522,vaidyanathan,2,12,v aid yana than
+13524,costeffective,2,13,cost effective
+13558,dopingrelated,1,13,doping related
+13635,memberstates,1,12,member states
+13637,extravaganza,1,12,extravaganza
+13672,immaculately,1,12,immaculately
+13679,benchmarking,1,12,benchmarking
+13689,bewilderment,1,12,bewilderment
+13694,eighthseeded,2,12,eighth seeded
+13726,energystarved,1,13,energy starved
+13743,aberdeenbased,1,13,aberdeen based
+13760,jacksonstyle,1,12,jackson style
+13855,displacement,1,12,displacement
+13871,tripledecker,1,12,triple decker
+13925,constellation,1,13,constellation
+13952,worldleading,2,12,world leading
+13961,herefordshire,1,13,herefordshire
+13970,receptionist,1,12,receptionist
+13993,workingclass,1,12,working class
+14014,oversubscribed,2,14,over subscribed
+14060,incapacitated,1,13,incapacitated
+14072,pointtopoint,1,12,point to point
+14077,bonhamcarter,1,12,bonham carter
+14082,indescribable,1,13,indescribable
+14087,monthtomonth,1,12,month to month
+14093,renationalise,2,13,re national is e
+14109,userfriendly,2,12,user friendly
+14129,palookaville,2,12,pa look a ville
+14135,classification,2,14,classification
+14211,nonpermanent,1,12,non permanent
+14230,higherreturn,1,12,higher return
+14236,renfrewshire,1,12,renfrewshire
+14249,purposefully,1,12,purposefully
+14252,alternatively,1,13,alternatively
+14318,multibillion,2,12,multi billion
+14336,precautionary,1,13,precautionary
+14378,jamaicanstyle,1,13,jamaican style
+14406,cannontoting,1,12,cannon toting
+14428,strategically,2,13,strategically
+14439,purification,1,12,purification
+14466,authoritative,1,13,authoritative
+14474,additionally,1,12,additionally
+14484,threeminutes,1,12,three minutes
+14505,advertiserbased,2,15,advertiser based
+14574,allenveloping,1,13,all enveloping
+14580,peacekeeping,1,12,peacekeeping
+14606,palestinians,1,12,palestinians
+14614,unsustainable,2,13,unsustainable
+14630,anticoagulant,1,13,anticoagulant
+14633,battlegrounds,1,13,battlegrounds
+14643,reinvigorate,1,12,reinvigorate
+14645,exgirlfriend,2,12,ex girlfriend
+14661,chancayhuaral,2,13,chan cay hu aral
+14677,glenmorangie,1,12,glen moran gie
+14684,scandinavian,2,12,scandinavian
+14706,stollenmayer,1,12,stollen mayer
+14712,doubleolympic,1,13,double olympic
+14785,ryanairboeing,1,13,ryanair boeing
+14805,glenurquhart,1,12,glen ur qu hart
+14846,interference,1,12,interference
+14849,doorstepping,1,12,door stepping
+14853,cinematographer,2,15,cinematographer
+14857,conglomerate,1,12,conglomerate
+14863,wellpolished,1,12,well polished
+14882,recognisable,1,12,recognisable
+14888,panagopoulos,1,12,pan ago poul os
+14893,majorityowned,1,13,majority owned
+14897,misjudgement,2,12,misjudgement
+14909,inauguration,2,12,inauguration
+14919,welldesigned,1,12,well designed
+14927,underfunding,1,12,under funding
+14931,reformminded,1,12,reform minded
+14949,chairmanship,2,12,chairmanship
+14962,disinterested,1,13,disinterested
+14980,bellahouston,1,12,bella houston
+14999,angloswedish,1,12,anglo swedish
+15022,muzaffarabad,1,12,muzaffarabad
+15042,concurrently,1,12,concurrently
+15045,childishness,1,12,childishness
+15077,renegotiation,2,13,renegotiation
+15113,fileswappers,1,12,file swap per s
+15123,counterbalance,2,14,counterbalance
+15130,schoolfriends,1,13,school friends
+15141,carolinabased,1,13,carolina based
+15186,allimportant,1,12,all important
+15210,julyseptember,1,13,july september
+15228,swindonnotts,1,12,swindon notts
+15250,inflammatory,1,12,inflammatory
+15264,unaccountable,1,13,unaccountable
+15273,prechristmas,2,12,pre christmas
+15308,thoroughness,2,12,thoroughness
+15401,fifthlargest,1,12,fifth largest
+15412,fayetteville,1,12,fayetteville
+15420,mouldbreaking,1,13,mould breaking
+15422,khordokovsky,1,12,khor do kov sky
+15425,futurologist,2,12,fu t urologist
+15440,confederation,2,13,confederation
+15501,kiknavelidze,1,12,ki knave lid ze
+15543,unidentified,2,12,unidentified
+15603,editorinchief,1,13,editor in chief
+15624,wholehearted,1,12,wholehearted
+15628,progressively,1,13,progressively
+15633,tuberculosis,2,12,tuberculosis
+15635,notification,1,12,notification
+15642,thunderbirds,1,12,thunderbirds
+15646,soberlysuited,1,13,soberly suited
+15649,consumercreated,2,15,consumer created
+15653,postconflict,1,12,post conflict
+15656,cannabisbased,1,13,cannabis based
+15665,familyfriendly,2,14,family friendly
+15666,playstations,1,12,playstation s
+15681,immeasurably,1,12,immeasurably
+15701,spokespeople,1,12,spokespeople
+15732,overlyzealous,2,13,overly zealous
+15752,moneyearning,1,12,money earning
+15763,stereophonics,1,13,stereophonic s
+15787,virusfighting,2,13,virus fighting
+15844,cosmopolitan,1,12,cosmopolitan
+15863,unmistakable,2,12,unmistakable
+15871,comparatively,2,13,comparatively
+15874,invasiveness,1,12,invasive ness
+15888,sweetnatured,1,12,sweet natured
+15922,semiconductor,1,13,semiconductor
+15983,energetically,1,13,energetically
+15989,screenfilling,1,13,screen filling
+16000,antibacterial,1,13,antibacterial
+16002,bibliography,1,12,bibliography
+16004,interrupting,1,12,interrupting
+16018,restructuren,1,12,restructure n
+16041,crossplatform,1,13,cross platform
+16049,shareholding,1,12,shareholding
+16092,impressionist,1,13,impressionist
+16107,exploitation,2,12,exploitation
+16114,characterises,1,13,characterises
+16116,exponentially,1,13,exponentially
+16151,unregistered,1,12,unregistered
+16167,threequarter,1,12,three quarter
+16170,sophistication,2,14,sophistication
+16222,showbusiness,2,12,show business
+16270,musicalcomedy,2,13,musical comedy
+16295,meandzoegate,1,12,me and zoe gate
+16314,coincidental,2,12,coincidental
+16348,remotecontrolled,2,16,remote controlled
+16363,psychologist,1,12,psychologist
+16371,enthusiastic,2,12,enthusiastic
+16385,respectableh,1,12,respectable h
+16387,interoperable,2,13,interoperable
+16447,overcrowding,1,12,overcrowding
+16496,multilingual,2,12,multilingual
+16499,extraordinarily,2,15,extraordinarily
+16518,fuelinjection,2,13,fuel injection
+16526,seasonallyadjusted,2,18,seasonally adjusted
+16528,overemphasise,1,13,over emphasise
+16545,antiblogging,1,12,anti blogging
+16579,disorientate,1,12,disorient ate
+16611,attributable,1,12,attributable
+16637,timeshifting,1,12,time shifting
+16644,counterparts,1,12,counterparts
+16682,dispassionate,1,13,dispassionate
+16723,newportgwent,1,12,newport gwent
+16728,repossession,2,12,repossession
+16755,enterprising,2,12,enterprising
+16783,surgutneftegas,2,14,sur gut ne ft egas
+16787,soulsearching,1,13,soul searching
+16808,hypertension,1,12,hypertension
+16810,jeanfrancois,2,12,jean francois
+16877,electrically,1,12,electrically
+16884,unstructured,1,12,unstructured
+16889,acknowledged,1,12,acknowledged
+16893,exportdriven,2,12,export driven
+16894,rugbytackled,1,12,rugby tackled
+16904,fossilhunting,1,13,fossil hunting
+16934,recreational,2,12,recreational
+16949,peradventure,1,12,per adventure
+16956,moneyspinner,1,12,money spinner
+16976,televentures,1,12,tele ventures
+17002,doubledeckers,1,13,double decker s
+17006,routeraccess,1,12,router access
+17095,inexperience,1,12,in experience
+17116,invitational,1,12,invitational
+17128,traditionalm,1,12,traditional m
+17133,valueformoney,1,13,value for money
+17225,unencumbered,1,12,un encumbered
+17229,cambridgebased,2,14,cambridge based
+17232,preclearance,1,12,pre clearance
+17244,acrobatically,1,13,acrobatic ally
+17304,bedfordshire,1,12,bedfordshire
+17307,environmentalist,2,16,environmentalist
+17320,mediterranean,1,13,mediterranean
+17335,drumthrowing,1,12,drum throwing
+17340,quarterpoint,1,12,quarter point
+17345,halobungieorg,1,13,halo bungie org
+17346,disillusioned,1,13,disillusioned
+17354,jakartabased,1,12,jakarta based
+17367,coproductions,2,13,co productions
+17454,liverpudlians,1,13,liver pu d lian s
+17462,flamethrower,1,12,flamethrower
+17494,manufactured,2,12,manufactured
+17547,illiberalism,1,12,il liberalism
+17572,regeneration,1,12,regeneration
+17575,rapidlyrising,1,13,rapidly rising
+17617,underachievement,2,16,under achievement
+17681,everexpanding,1,13,ever expanding
+17703,consecutively,1,13,consecutively
+17748,nigerianowned,1,13,nigerian owned
+17791,peterborough,2,12,peterborough
+17806,egyptianborn,1,12,egyptian born
+17825,wigglesworth,2,12,wiggles worth
+17838,dutchmoroccan,1,13,dutch moroccan
+17851,mindnumbingly,1,13,mind numbing ly
+17853,schizophrenic,2,13,schizophrenic
+17855,reverberation,1,13,reverberation
+17856,ekhayelitsha,2,12,ek haye lit sha
+17905,healthrelated,2,13,health related
+17910,groundstrokes,1,13,ground strokes
+17913,platespinning,1,13,plate spinning
+17932,magnificently,2,13,magnificently
+17949,uncompromising,2,14,uncompromising
+18033,multilateral,2,12,multilateral
+18045,discriminated,1,13,discriminated
+18055,fiveyeardeal,1,12,five year deal
+18071,cashstrapped,2,12,cash strapped
+18072,cleanburning,1,12,clean burning
+18074,simpsondaniel,1,13,simpson daniel
+18081,interrogator,1,12,interrogator
+18089,courageously,2,12,courageously
+18091,preoccupation,1,13,preoccupation
+18095,restructuing,1,12,re struct u ing
+18097,educationalist,2,14,education a list
+18100,uninterested,1,12,uninterested
+18128,courtimposed,1,12,court imposed
+18156,winterbottom,2,12,winter bottom
+18171,bestdesigned,1,12,best designed
+18231,nipplebaring,1,12,nipple baring
+18253,europeafrica,1,12,europe africa
+18312,encouragement,1,13,encouragement
+18341,rehabilitate,2,12,rehabilitate
+18349,disheartened,1,12,disheartened
+18352,honeymanscott,1,13,honey man scott
+18362,authoritarian,2,13,authoritarian
+18393,semimythical,1,12,semi mythical
+18411,motioncontrol,1,13,motion control
+18412,tsunamirelated,2,14,tsunami related
+18445,untrammelled,1,12,un trammelled
+18470,intermediary,2,12,intermediary
+18473,liechtenstein,1,13,liechtenstein
+18505,inventiveness,1,13,inventiveness
+18542,frankenheimer,2,13,franken he i mer
+18589,goodpractice,1,12,good practice
+18603,insignificant,2,13,insignificant
+18627,libertadores,1,12,libertadores
+18656,prostitution,2,12,prostitution
+18672,antieuropeans,1,13,anti europeans
+18674,biblethumping,1,13,bible thumping
+18709,sixkilometre,1,12,six kilometre
+18710,moneyspinning,2,13,money spinning
+18714,involvedthey,1,12,involved they
+18744,paternalistic,1,13,paternalistic
+18766,remotecontrol,1,13,remote control
+18769,unscrupulous,2,12,unscrupulous
+18775,noncommercial,2,13,noncommercial
+18805,theirfamilies,1,13,their families
+18841,inconspicuous,1,13,inconspicuous
+18870,whistleblower,1,13,whistle blower
+18879,straightsets,1,12,straight sets
+18881,asylumseeking,2,13,asylum seeking
+18913,screensavers,1,12,screen savers
+18951,uncontrolled,2,12,uncontrolled
+18955,washingtonbased,2,15,washington based
+18957,affordability,1,13,afford ability
+18969,embezzlement,1,12,embezzlement
+18971,defibrillator,2,13,defibrillator
+18982,atomstroieksport,2,16,atoms troi ek sport
+18986,disintegrate,1,12,disintegrate
+18991,silverbooted,1,12,silver booted
+18995,spectacularly,2,13,spectacularly
+19006,internazionale,2,14,internazionale
+19045,reorganisation,2,14,reorganisation
+19084,foreignowned,2,12,foreign owned
+19137,nontechnical,2,12,nontechnical
+19140,documentation,2,13,documentation
+19142,unattractive,1,12,unattractive
+19150,connectedness,1,13,connected ness
+19188,guitartoting,1,12,guitar toting
+19209,contaminationfree,2,17,contamination free
+19230,selfassurance,1,13,self assurance
+19318,inconceivable,1,13,inconceivable
+19328,problematical,1,13,problematical
+19379,prescription,2,12,prescription
+19415,newlyfounded,1,12,newly founded
+19444,justification,1,13,justification
+19463,leadenfooted,1,12,leaden footed
+19479,injuryplagued,1,13,injury plagued
+19491,muchimproved,1,12,much improved
+19495,stringfellow,2,12,stringfellow
+19504,exceptionally,1,13,exceptionally
+19507,passionately,1,12,passionately
+19513,copyprotection,2,14,copy protection
+19547,unseasonably,2,12,unseasonably
+19632,manofthematch,1,13,man of the match
+19640,distributing,1,12,distributing
+19642,protestation,2,12,protestation
+19667,extortionate,1,12,extortionate
+19685,posttakeover,1,12,post takeover
+19689,unreturnable,1,12,un returnable
+19693,cyberathlete,1,12,cyberathlete
+19703,counterstrike,1,13,counter strike
+19707,sidescrolling,2,13,sidescrolling
+19712,lowprevalence,1,13,low prevalence
+19721,locationbased,1,13,location based
+19772,gamebreakers,1,12,game breakers
+19786,repercussion,1,12,repercussion
+19822,injuryravaged,1,13,injury ravaged
+19853,significance,2,12,significance
+19885,nongovernment,1,13,non government
+19915,encroachment,1,12,encroachment
+19927,sowdentaylor,2,12,sow den taylor
+19936,virginiabased,1,13,virginia based
+19940,unfulfilling,2,12,un fulfilling
+19944,semifinalist,1,12,semifinalist
+19991,interoperability,2,16,interoperability
+20066,postgraduate,1,12,postgraduate
+20091,houstonbased,1,12,houston based
+20096,irelandbased,1,12,ireland based
+20136,asbestosrelated,2,15,asbestos related
+20143,wwwarsenalcom,1,13,www arsenal com
+20195,pianopounder,1,12,piano pounder
+20201,newlycrowned,1,12,newly crowned
+20208,commoditising,2,13,com mod it ising
+20224,astonishingly,2,13,astonishingly
+20263,antieuropean,1,12,anti european
+20286,footballplaying,2,15,football playing
+20318,protagonists,1,12,protagonists
+20328,assertiveness,1,13,assertiveness
+20385,preinstalled,1,12,pre installed
+20394,maledominated,1,13,male dominated
+20419,authenticorp,2,12,authentic or p
+20421,overcapacity,2,12,over capacity
+20422,titlewinning,1,12,title winning
+20423,homelessness,1,12,homelessness
+20451,inadmissible,1,12,inadmissible
+20461,spontaneously,1,13,spontaneously
+20462,wellorganised,1,13,well organised
+20480,infiltration,1,12,infiltration
+20488,fastestrising,1,13,fastest rising
+20489,insurrection,1,12,insurrection
+20528,preparations,1,12,preparations
+20549,ridiculously,1,12,ridiculously
+20551,anheuserbusch,1,13,anheuser busch
+20555,pronunciation,1,13,pronunciation
+20575,collaborative,1,13,collaborative
+20604,quickestever,1,12,quickest ever
+20630,konstantinos,1,12,konstantino s
+20653,quickthinking,1,13,quick thinking
+20753,pencepershare,1,13,pence per share
+20773,stakeholders,1,12,stakeholders
+20784,multipurpose,1,12,multipurpose
+20786,subcontractor,2,13,subcontractor
+20817,unsatisfying,1,12,unsatisfying
+20820,satyanarayana,1,13,satya narayana
+20823,interrogation,1,13,interrogation
+20842,housebuilder,1,12,house builder
+20860,brisbanebased,1,13,brisbane based
+20865,underwhelming,1,13,under w hel ming
+20893,fragmentation,2,13,fragmentation
+20894,interamerican,2,13,inter american
+20918,transitional,2,12,transitional
+20937,kickstarting,1,12,kick starting
