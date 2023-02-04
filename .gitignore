@@ -131,3 +131,5 @@ dmypy.json
 .vscode/
 ml_db-token.json/
 secure-connect-ml-db.zip/
+artifacts/
+feat_store/
