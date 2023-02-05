@@ -1,5 +1,8 @@
 columns:
-  - ArticleId: int
-  - Text: object
-  - Category: category
+  - name: ArticleId
+    type: int
+  - name: Text
+    type: object
+  - name: Category
+    type: object
 
