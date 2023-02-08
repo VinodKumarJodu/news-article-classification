@@ -34,5 +34,5 @@ DATA_VALIDATION_REPORT_FILE_NAME: str = "data_validation_report.yaml"
 Defining Data Transformation Related Constants & Starts with DATA_TRANSFORMATION 
 """
 DATA_TRANSFORMATION_DIR_NAME: str = "data_transformation"
-DATA_TRANSFORMATION_TRANSFORMED_DATA_DIR_NAME: str = "transformation"
+DATA_TRANSFORMATION_TRANSFORMED_DATA_DIR_NAME: str = "transformed"
 DATA_TRANSFORMATION_TRANSFRMED_OBJECT_DIR: str = "transformed_object"

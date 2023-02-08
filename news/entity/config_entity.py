@@ -1,4 +1,5 @@
 import os
+import numpy as np
 from datetime import datetime
 
 from news.logger import logging
@@ -10,6 +11,10 @@ from news.constants.training_pipeline_constants import PIPELINE_NAME, ARTIFACTS_
 from news.constants.training_pipeline_constants import DATA_INGESTION_DIR_NAME, DATA_INGESTION_FEATURE_STORE_DIR, DATA_INGESTION_INGESTED_DIR, DATA_INGESTION_TRAIN_TEST_SPLIT_RATIO
 #Data Validation Relaed Constants
 from news.constants.training_pipeline_constants import DATA_VALIDATION_DIR_NAME, DATA_VALIDATION_VALID_DIR, DATA_VALIDATION_INVALID_DIR, DATA_VALIDATION_REPORT_DIR, DATA_VALIDATION_REPORT_FILE_NAME
+# Data Transformation Related Constants
+from news.constants.training_pipeline_constants import DATA_TRANSFORMATION_DIR_NAME, DATA_TRANSFORMATION_TRANSFORMED_DATA_DIR_NAME, DATA_TRANSFORMATION_TRANSFRMED_OBJECT_DIR
+
+
 class TrainingPipelineConfig:
     def __init__(self,timestamp=datetime.now()):
         timestamp = timestamp.strftime("%m_%d_%Y_%H_%M_%S")
@@ -37,15 +42,13 @@ class DataValidationConfig:
         self.invalid_test_file_path: str = os.path.join(self.invalid_data_dir, TEST_FILE_NAME)
         self.validation_report_path: str = os.path.join(self.data_validation_dir, DATA_VALIDATION_REPORT_DIR, DATA_VALIDATION_REPORT_FILE_NAME)
 
-# class DataIngestionConfig:
-#     def __init__(self, training_pipeline_config:TrainingPipelineConfig):
-#         self.training_pipeline_config = training_pipeline_config
-#         self.data_ingestion_dir:str = os.path.join(training_pipeline_config.artifact_dir, DATA_INGESTION_DIR_NAME)
-#         self.feature_store_file_path:str = os.path.join(self.data_ingestion_dir,DATA_INGESTION_FEATURE_STORE_DIR, FILE_NAME)
-#         self.train_file_path: str = os.path.join(self.data_ingestion_dir,DATA_INGESTION_INGESTED_DIR, TRAIN_FILE_NAME)
-#         self.test_file_path: str = os.path.join(self.data_ingestion_dir,DATA_INGESTION_INGESTED_DIR, TEST_FILE_NAME)
-#         self.train_test_split_ration: float = DATA_INGESTION_TRAIN_TEST_SPLIT_RATIO
-
+class DataTransformationConfig:
+    def __init__(self, training_pipeline_config:TrainingPipelineConfig):
+        self.data_transformation_dir: str = os.path.join(training_pipeline_config.artifact_dir, DATA_TRANSFORMATION_DIR_NAME)
+        self.transformed_train_file_path: str = os.path.join(self.data_transformation_dir, DATA_TRANSFORMATION_TRANSFORMED_DATA_DIR_NAME, TRAIN_FILE_NAME)
+        self.transformed_test_file_path: str = os.path.join(self.data_transformation_dir, DATA_TRANSFORMATION_TRANSFORMED_DATA_DIR_NAME, TEST_FILE_NAME)
+        self.transformed_object_file_path: str = os.path.join(self.data_transformation_dir, DATA_TRANSFORMATION_TRANSFRMED_OBJECT_DIR)
+        
 # class DataTransformationConfig:
 #     def __init__(self, training_pipeline_config:TrainingPipelineConfig):
 #         self.data_transformation_dir: str = os.path.join(artifact_dir, DATA_TRANSFORMATION_DIR_NAME)
